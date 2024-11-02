@@ -1,2 +1,12 @@
-libraries/*
-resources/tmp/*
+dist/
+build/
+*.log
+.env
+*.tmp
+*.temp
+.DS_Store     
+Thumbs.db   
+.vscode/    
+node_modules/
+*.crx
+*.pem
