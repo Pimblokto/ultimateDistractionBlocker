@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "THE ULTIMATE DISTRACTION BLOCKER",
+    "version": "0.0.1",
+    "description": "You will not be distracted anymore",
+    "permissions": [
+        "tabs",
+        "activeTab",
+        "storage",
+        "notifications"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    }
+}
