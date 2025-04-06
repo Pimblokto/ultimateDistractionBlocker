@@ -1,4 +1,4 @@
-# KSI Tab Storm Extension
+# 🔥 ULTIMATE DISTRACTION BLOCKER 🔥
 
 ## How to set up:
 
